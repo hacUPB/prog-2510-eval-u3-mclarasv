@@ -16,4 +16,5 @@ if plato == "1":
     print("Trae: Papas fritas, salchicha artesanal, tocineta, queso motzarella y salsas de preferencia personal")
 elif plato == "2":
     print("Trae: Pan de papa, 500g de carne de res, queso crema, queso motzarella, salsa de la casa, tomates asados y lechuga")
-elif plato == "3"
+elif plato == "3":
+    print()
