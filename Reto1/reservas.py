@@ -1,0 +1,5 @@
+titulo = int(input("¿Es usted señor o señora?: "))
+nombre = int(input("Introduce tu nombre:"))
+apellido = int(input("Introduce tu apellido: "))
+print(f"{titulo} {nombre} {apellido}, ¡Bienvenido a FastFast Airlines!")
+origen = int(input("¿cuál es su lugar de origen?"))
